@@ -1,6 +1,4 @@
-# Repository Name: rahulsharmadev-community
-
-## Important Update: Username Change
+## ⚠️ Important Update: Username Change
 
 We want to inform all contributors and community members that the GitHub username for this repository has changed.
 
