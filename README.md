@@ -22,4 +22,4 @@ Thank you for your understanding and continued support of the project. If you ha
 Stay tuned for more exciting updates!
 
 Best regards,  
-The **rahulsharmadev0** Team
+The **[rahulsharmadev0](https://github.com/rahulsharmadev0)** Team
